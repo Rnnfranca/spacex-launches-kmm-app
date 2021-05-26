@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.user.androidApp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[:shared] C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+11-->[:shared] C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-64
+12
+13    <application
+13-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:3:5-13:19
+14        android:allowBackup="false"
+14-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:4:13-40
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.3.1] C:\Users\renan.franca\.gradle\caches\transforms-2\files-2.1\701432d2e2e844c780f302bff802afe4\core-1.3.1\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:supportsRtl="true"
+18-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:5:13-39
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:6:13-44
+21        <activity android:name="me.user.androidApp.MainActivity" >
+21-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:7:9-12:20
+21-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:7:19-47
+22            <intent-filter>
+22-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:8:13-11:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:9:17-68
+23-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:9:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:10:17-76
+25-->C:\Users\renan.franca\AndroidStudioProjects\SpaceXLaunches\androidApp\src\main\AndroidManifest.xml:10:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

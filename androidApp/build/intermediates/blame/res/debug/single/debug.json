@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\renan.franca\\AndroidStudioProjects\\SpaceXLaunches\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_launch.xml.flat",
+        "source": "C:\\Users\\renan.franca\\AndroidStudioProjects\\SpaceXLaunches\\androidApp\\src\\main\\res\\layout\\item_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\renan.franca\\AndroidStudioProjects\\SpaceXLaunches\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\renan.franca\\AndroidStudioProjects\\SpaceXLaunches\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
